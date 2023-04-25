@@ -1,0 +1,82 @@
+[
+        {
+            "id": 0,
+            "name": "BBQ",
+            "description": "",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 1,
+            "name": "Pizza",
+            "description": "",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 2,
+            "name": "Salsa",
+            "description": "",
+            "ingredients": [],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 3,
+            "name": "Sweet Chilli",
+            "description": "",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 4,
+            "name": "Spicy TABASCO",
+            "description": "",
+            "ingredients": [],
+            "spicy": true,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 5,
+            "name": "Mayonnaise",
+            "description": "",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/OmejA2J.png"
+        },
+        {
+            "id": 6,
+            "name": "Ketchup",
+            "description": "",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
+        },
+        {
+            "id": 7,
+            "name": "Garlic sauce",
+            "description": "",
+            "ingredients": [],
+            "spicy": false,
+            "vegetarian": false,
+            "price": 4,
+            "image": "https://i.imgur.com/OmejA2J.png"
+        }
+    ]
